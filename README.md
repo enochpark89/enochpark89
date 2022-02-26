@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enochpark89
-- 👀 I’m interested in becoming a Software Engineer
+- 👀 I’m interested in becoming a Software Engineer/ Software Developer
 - 🌱 I’m currently learning JavaScript, Python, and Ruby
 - 💞️ I’m looking for an employment opportunity.
 - 📫 How to reach me enochpark89@gmail.com
